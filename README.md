@@ -11,4 +11,15 @@ https://geojackass.github.io/thk_shizuoka/thk_stock_semi.html
 https://geojackass.github.io/thk_shizuoka/thk_stock_decompose.html
 
 ### コンペ用受注予測サンプルコード1
+#### prerequistues prophet
+- use conda
+```
+conda install -c conda-forge fbprophet
+```
+
+- use pip
+```
+pip install fbprophet
+```
+
 https://geojackass.github.io/thk_shizuoka/order_forecasting.html
