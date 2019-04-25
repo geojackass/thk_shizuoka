@@ -23,3 +23,5 @@ pip install fbprophet
 ```
 
 https://geojackass.github.io/thk_shizuoka/order_forecasting.html
+
+### コンペ用出荷量予測サンプルコード3
