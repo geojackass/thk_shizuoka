@@ -2,7 +2,7 @@
 THK,ShizuokaUniv
 
 ### 講義用資料の前半(P4-P20)は下記ページを参照してください
-- Rversion https://geojackass.github.io/thk_shizuoka/linear_regression.html
+- R version https://geojackass.github.io/thk_shizuoka/linear_regression.html
 - python version https://geojackass.github.io/thk_shizuoka/linear_regression_py.html
 
 ### 講義用資料の中盤(P32-35)は下記ページを参照してください
