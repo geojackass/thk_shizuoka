@@ -10,7 +10,7 @@ THK,ShizuokaUniv
 - python version https://geojackass.github.io/thk_shizuoka/thk_stock_semi_py.html
 
 ### 講義用資料の後半(P36)は下記ページを参照してください
--R version https://geojackass.github.io/thk_shizuoka/thk_stock_decompose.html
+- R version https://geojackass.github.io/thk_shizuoka/thk_stock_decompose.html
 - python version https://geojackass.github.io/thk_shizuoka/thk_stock_decompose_py.html  
 
 ** 講義資料用の後半のpython versionに関しては、statsmodelsというライブラリを使用します
