@@ -32,7 +32,7 @@ pip install fbprophet
 https://geojackass.github.io/thk_shizuoka/order_forecasting.html
 
 ### コンペ用製造品質予測サンプルコード2
-https://geojackass.github.io/thk_shizuoka/quality_calssifier.html
+https://geojackass.github.io/thk_shizuoka/quality_classifier.html
 
 ### コンペ用出荷量予測サンプルコード3
 https://geojackass.github.io/thk_shizuoka/shipment_forecasting.html
