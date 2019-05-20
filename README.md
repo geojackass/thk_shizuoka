@@ -5,6 +5,9 @@ THK,ShizuokaUniv
 - R version https://geojackass.github.io/thk_shizuoka/linear_regression.html
 - python version https://geojackass.github.io/thk_shizuoka/linear_regression_py.html
 
+### 講義用資料の前半休憩後(P20-P30)は下記ページを参照してください
+- R version https://geojackass.github.io/thk_shizuoka/hist_r.html
+
 ### 講義用資料の中盤(P32-35)は下記ページを参照してください
 - R version https://geojackass.github.io/thk_shizuoka/thk_stock_semi.html
 - python version https://geojackass.github.io/thk_shizuoka/thk_stock_semi_py.html
