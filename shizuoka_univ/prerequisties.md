@@ -40,6 +40,22 @@ User/[user_name]/Anaconda3
 スタートメニューから、anaconda pythonの機能が確認できます。
 ここまでで、Anacondaのインストールは出来ています。
 
+次に、時系列解析用のライブラリ、fbprophetをインストールしておきます。
+#### prerequistues prophet
+- use conda
+ 
+```
+conda install -c conda-forge fbprophet
+```
+
+- use pip
+
+```
+pip install fbprophet
+```
+
+Anacondaを使用している場合は、condaコマンドの使用を推奨します。
+上手くinstallできなかったりする場合は、pipコマンドでも問題ありません。
 
 ### install Tableau
 
