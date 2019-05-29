@@ -4,3 +4,6 @@ https://geojackass.github.io/thk_shizuoka/shizuoka_univ/prerequisties.html
 
 ### データは下記リポジトリからダウンロードを行っておいてください
 https://geojackass.com/thk_dat.zip
+
+### 講義では3番の問題を扱います。
+https://geojackass.github.io/thk_shizuoka/shizuoka_univ/shipment_forecasting.html
