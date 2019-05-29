@@ -38,4 +38,4 @@ https://geojackass.github.io/thk_shizuoka/order_forecasting.html
 https://geojackass.github.io/thk_shizuoka/quality_classifier.html
 
 ### コンペ用出荷量予測サンプルコード3
-https://geojackass.github.io/thk_shizuoka/shipment_forecasting.html
+https://geojackass.github.io/thk_shizuoka/shizuoka_univ/shipment_forecasting.html
