@@ -3,4 +3,4 @@
 https://geojackass.github.io/thk_shizuoka/shizuoka_univ/prerequisties.html
 
 ### データは下記リポジトリからダウンロードを行っておいてください
-[FQDN]
+https://geojackass.com/thk_dat.zip
